@@ -1,0 +1,37 @@
+{
+    "attributes": {
+        "id": "Layer_1",
+        "style": "enable-background:new 0 0 4057.3 2085.4;",
+        "version": "1.1",
+        "viewBox": "0 0 4057.3 2085.4",
+        "x": "0px",
+        "xml:space": "preserve",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "xmlns:xlink": "http://www.w3.org/1999/xlink",
+        "y": "0px",
+        "name": "svg"
+    },
+    "children": [
+        {
+            "attributes": {
+                "points": "748.5,641.5 748.5,947.7 1283,947.7 1331.7,779 1310.7,755.8 1236.3,755.8 1171,681.1 1171,642",
+                "room": "64"
+            },
+            "name": "image"
+        },
+        {
+            "attributes": {
+                "points": "748.5,641.5 748.5,947.7 1283,947.7 1331.7,779 1310.7,755.8 1236.3,755.8 1171,681.1 1171,642",
+                "room": "65"
+            },
+            "name": "polygon"
+        },
+        {
+            "attributes": {
+                "points": "748.5,641.5 748.5,947.7 1283,947.7 1331.7,779 1310.7,755.8 1236.3,755.8 1171,681.1 1171,642",
+                "room": "66"
+            },
+            "name": "rect"
+        }
+    ]
+}
